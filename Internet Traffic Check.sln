@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internet Traffic Check", "Internet Traffic Check\Internet Traffic Check.csproj", "{5356A59B-ACCD-4B8C-AB57-B77244BE8913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5356A59B-ACCD-4B8C-AB57-B77244BE8913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5356A59B-ACCD-4B8C-AB57-B77244BE8913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5356A59B-ACCD-4B8C-AB57-B77244BE8913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5356A59B-ACCD-4B8C-AB57-B77244BE8913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6B653B-3EA4-4AE4-8AE9-F0F00047AAA2}
+	EndGlobalSection
+EndGlobal

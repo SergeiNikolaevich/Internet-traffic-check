@@ -1,0 +1,7 @@
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\bin\Debug\Internet Traffic Check.exe.config
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\bin\Debug\Internet Traffic Check.exe
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\bin\Debug\Internet Traffic Check.pdb
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\obj\Debug\Internet Traffic Check.csprojAssemblyReference.cache
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\obj\Debug\Internet Traffic Check.csproj.CoreCompileInputs.cache
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\obj\Debug\Internet Traffic Check.exe
+C:\Users\SergeiNikolaevich\source\repos\Internet Traffic Check\Internet Traffic Check\obj\Debug\Internet Traffic Check.pdb
