@@ -22,13 +22,20 @@ namespace Internet_Traffc_Check
         private void BTNCheck_Click(object sender, RoutedEventArgs e)
         {
             Gb.Visibility = Visibility.Visible;
-
-            TXTPayDay.Text = DatePickerReplenished.SelectedDate.Value.AddDays(28).ToString();
-
-            DataContext = new DiagramView(new Diagram
+            if (DatePickerReplenished.SelectedDate == null)
             {
-                Percent = Calc()
-            });
+                TXTPayDay.Text = "Вы не выбрали дату";
+            }
+            else
+            {
+                TXTPayDay.Text = DatePickerReplenished.SelectedDate.Value.AddDays(28).ToString();
+
+                DataContext = new DiagramView(new Diagram
+                {
+                    Percent = Calc()
+                });
+            }
+           
         }
 
         public double Calc()
@@ -48,7 +55,7 @@ namespace Internet_Traffc_Check
                 Diagram.Add(diagram);
             }
         }
-
+        
         public class Diagram
         {
             public string Title { get; private set; }
